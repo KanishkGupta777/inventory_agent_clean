@@ -1,0 +1,45 @@
+menu_item,station,avg_prep_time_minutes
+6 Pack Soft Drink,Beverage Station,0.5
+Barbacoa Bowl,Assembly Station,2.5
+Barbacoa Burrito,Assembly Station,3.0
+Barbacoa Crispy Tacos,Assembly Station,2.5
+Barbacoa Salad Bowl,Assembly Station,2.5
+Barbacoa Soft Tacos,Assembly Station,2.0
+Bottled Water,Beverage Station,0.5
+Canned Soda,Beverage Station,0.5
+Canned Soft Drink,Beverage Station,0.5
+Carnitas Bowl,Assembly Station,2.5
+Carnitas Burrito,Assembly Station,3.0
+Carnitas Crispy Tacos,Assembly Station,2.5
+Carnitas Salad,Assembly Station,2.0
+Carnitas Salad Bowl,Assembly Station,2.5
+Carnitas Soft Tacos,Assembly Station,2.0
+Chicken Bowl,Assembly Station,2.5
+Chicken Burrito,Assembly Station,3.0
+Chicken Crispy Tacos,Assembly Station,2.5
+Chicken Salad,Assembly Station,2.0
+Chicken Salad Bowl,Assembly Station,2.5
+Chicken Soft Tacos,Assembly Station,2.0
+Chips,Chips Station,1.0
+Chips and Fresh Tomato Salsa,Chips Station,1.0
+Chips and Guacamole,Chips Station,1.0
+Chips and Mild Fresh Tomato Salsa,Chips Station,1.0
+Chips and Roasted Chili Corn Salsa,Chips Station,1.0
+Chips and Roasted Chili-Corn Salsa,Chips Station,1.0
+Chips and Tomatillo Green Chili Salsa,Chips Station,1.0
+Chips and Tomatillo Red Chili Salsa,Chips Station,1.0
+Chips and Tomatillo-Green Chili Salsa,Chips Station,1.0
+Chips and Tomatillo-Red Chili Salsa,Chips Station,1.0
+Side of Chips,Chips Station,1.0
+Steak Bowl,Assembly Station,2.5
+Steak Burrito,Assembly Station,3.0
+Steak Crispy Tacos,Assembly Station,2.5
+Steak Salad,Assembly Station,2.0
+Steak Salad Bowl,Assembly Station,2.5
+Steak Soft Tacos,Assembly Station,2.0
+Veggie Bowl,Assembly Station,2.5
+Veggie Burrito,Assembly Station,3.0
+Veggie Crispy Tacos,Assembly Station,2.5
+Veggie Salad,Assembly Station,2.0
+Veggie Salad Bowl,Assembly Station,2.5
+Veggie Soft Tacos,Assembly Station,2.0

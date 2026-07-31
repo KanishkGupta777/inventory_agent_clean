@@ -1,0 +1,16 @@
+customer_id,order_id,rating,feedback_text,feedback_date
+C001,5001,5,Great taste and quick service,2026-07-04
+C002,5004,2,Salad bowl was too small for the price,2026-06-20
+C003,5006,4,Really enjoyed the burrito filling,2026-07-05
+C004,5009,3,Average experience overall,2026-05-15
+C005,5010,5,Best chicken bowl in the city,2026-07-01
+C006,5012,2,Salad was soggy on arrival,2026-04-10
+C007,5013,4,Tacos were fresh and tasty,2026-06-28
+C008,5015,1,Order was delayed by 20 minutes,2026-06-01
+C009,5016,3,Nothing special but decent,2026-03-20
+C010,5017,5,Loved the guacamole freshness,2026-07-03
+C011,5019,4,Good portion size for the price,2026-07-06
+C012,5021,2,Veggie bowl lacked flavor,2026-02-14
+C013,5022,5,Consistent quality every time,2026-06-25
+C014,5024,3,Okay but nothing memorable,2026-05-02
+C015,5025,4,Salad bowl was fresh and filling,2026-07-02

@@ -1,0 +1,9 @@
+package_name,current_stock_units,reorder_threshold_units,unit_cost_usd,supplier_lead_days
+Bowl Container,400,150,0.25,2
+Burrito Foil Wrap,600,200,0.1,1
+Taco Box,300,100,0.15,2
+Salad Bowl Container,70,80,0.28,2
+Chip Bag,500,150,0.08,1
+Drink Cup,700,200,0.06,1
+Napkin Pack,1000,300,0.02,1
+Utensil Kit,800,250,0.05,1

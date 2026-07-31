@@ -1,0 +1,9 @@
+supplier_name,item_name,unit_price_usd,reliability_score,avg_lead_days
+FreshFarms Co,Chicken,8.50,92,1
+FreshFarms Co,Steak,11.00,90,1
+GreenLeaf Produce,Lettuce,2.50,85,2
+GreenLeaf Produce,Corn Salsa,3.00,88,2
+DairyBest Ltd,Sour Cream,4.20,95,1
+AvoSource Inc,Guacamole,9.00,78,3
+GrainWorks,Rice,1.80,97,1
+BeanCo Suppliers,Black Beans,2.00,93,2

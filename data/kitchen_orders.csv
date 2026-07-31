@@ -1,0 +1,13 @@
+order_id,item_name,station,status,prep_time_minutes
+101,Chicken Bowl,Assembly Station,pending,2.5
+102,Steak Burrito,Assembly Station,in_progress,6.5
+103,Chips and Guacamole,Chips Station,completed,1.0
+104,Barbacoa Crispy Tacos,Assembly Station,pending,2.5
+105,Chicken Soft Tacos,Assembly Station,in_progress,3.5
+106,Veggie Bowl,Assembly Station,pending,2.5
+107,Canned Soda,Beverage Station,completed,0.5
+108,Carnitas Burrito,Assembly Station,in_progress,11.0
+109,Steak Salad Bowl,Assembly Station,pending,2.5
+110,Chicken Burrito,Assembly Station,pending,3.0
+111,Side of Chips,Chips Station,completed,1.0
+112,Barbacoa Bowl,Assembly Station,in_progress,4.0

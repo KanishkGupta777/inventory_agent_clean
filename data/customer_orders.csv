@@ -1,0 +1,27 @@
+customer_id,order_id,item_name,order_date,amount
+C001,5001,Chicken Bowl,2026-07-04,289.00
+C001,5002,Chips and Guacamole,2026-06-28,180.00
+C001,5003,Chicken Burrito,2026-06-15,299.00
+C002,5004,Steak Salad Bowl,2026-06-20,320.00
+C002,5005,Veggie Bowl,2026-06-05,250.00
+C003,5006,Chicken Burrito,2026-07-05,299.00
+C003,5007,Barbacoa Bowl,2026-06-30,310.00
+C003,5008,Chips and Guacamole,2026-06-22,180.00
+C004,5009,Veggie Bowl,2026-05-15,250.00
+C005,5010,Chicken Bowl,2026-07-01,289.00
+C005,5011,Steak Burrito,2026-06-18,320.00
+C006,5012,Chicken Salad Bowl,2026-04-10,275.00
+C007,5013,Barbacoa Crispy Tacos,2026-06-28,265.00
+C007,5014,Chicken Bowl,2026-06-10,289.00
+C008,5015,Chicken Burrito,2026-06-01,299.00
+C009,5016,Veggie Bowl,2026-03-20,250.00
+C010,5017,Chips and Guacamole,2026-07-03,180.00
+C010,5018,Chicken Bowl,2026-06-25,289.00
+C011,5019,Steak Burrito,2026-07-06,320.00
+C011,5020,Barbacoa Bowl,2026-06-20,310.00
+C012,5021,Veggie Bowl,2026-02-14,250.00
+C013,5022,Chicken Bowl,2026-06-25,289.00
+C013,5023,Chicken Burrito,2026-06-10,299.00
+C014,5024,Chips and Guacamole,2026-05-02,180.00
+C015,5025,Steak Salad Bowl,2026-07-02,320.00
+C015,5026,Chicken Bowl,2026-06-15,289.00

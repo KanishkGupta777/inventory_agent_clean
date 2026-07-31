@@ -1,0 +1,38 @@
+package_name,menu_item,units_per_order
+Bowl Container,Barbacoa Bowl,1
+Salad Bowl Container,Barbacoa Salad Bowl,1
+Salad Bowl Container,Barbacoa Salad,1
+Burrito Foil Wrap,Barbacoa Burrito,1
+Taco Box,Barbacoa Soft Tacos,1
+Taco Box,Barbacoa Crispy Tacos,1
+Bowl Container,Carnitas Bowl,1
+Salad Bowl Container,Carnitas Salad Bowl,1
+Salad Bowl Container,Carnitas Salad,1
+Burrito Foil Wrap,Carnitas Burrito,1
+Taco Box,Carnitas Soft Tacos,1
+Taco Box,Carnitas Crispy Tacos,1
+Bowl Container,Chicken Bowl,1
+Salad Bowl Container,Chicken Salad Bowl,1
+Salad Bowl Container,Chicken Salad,1
+Burrito Foil Wrap,Chicken Burrito,1
+Taco Box,Chicken Soft Tacos,1
+Taco Box,Chicken Crispy Tacos,1
+Bowl Container,Steak Bowl,1
+Salad Bowl Container,Steak Salad Bowl,1
+Salad Bowl Container,Steak Salad,1
+Burrito Foil Wrap,Steak Burrito,1
+Taco Box,Steak Soft Tacos,1
+Taco Box,Steak Crispy Tacos,1
+Bowl Container,Veggie Bowl,1
+Salad Bowl Container,Veggie Salad Bowl,1
+Salad Bowl Container,Veggie Salad,1
+Burrito Foil Wrap,Veggie Burrito,1
+Taco Box,Veggie Soft Tacos,1
+Taco Box,Veggie Crispy Tacos,1
+Chip Bag,Chips,1
+Chip Bag,Side of Chips,1
+Chip Bag,Chips and Guacamole,1
+Chip Bag,Chips and Fresh Tomato Salsa,1
+Drink Cup,Canned Soda,1
+Drink Cup,Bottled Water,1
+Drink Cup,Canned Soft Drink,1

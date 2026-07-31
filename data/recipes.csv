@@ -1,0 +1,110 @@
+ingredient,menu_item,quantity_kg_per_serving
+Chicken,Chicken Bowl,0.2
+Chicken,Chicken Burrito,0.2
+Chicken,Chicken Soft Tacos,0.15
+Chicken,Chicken Crispy Tacos,0.15
+Chicken,Chicken Salad Bowl,0.2
+Chicken,Chicken Salad,0.2
+Steak,Steak Bowl,0.2
+Steak,Steak Burrito,0.2
+Steak,Steak Soft Tacos,0.15
+Steak,Steak Crispy Tacos,0.15
+Steak,Steak Salad Bowl,0.2
+Steak,Steak Salad,0.2
+Carnitas,Carnitas Bowl,0.2
+Carnitas,Carnitas Burrito,0.2
+Carnitas,Carnitas Soft Tacos,0.15
+Carnitas,Carnitas Crispy Tacos,0.15
+Carnitas,Carnitas Salad Bowl,0.2
+Carnitas,Carnitas Salad,0.2
+Barbacoa,Barbacoa Bowl,0.2
+Barbacoa,Barbacoa Burrito,0.2
+Barbacoa,Barbacoa Soft Tacos,0.15
+Barbacoa,Barbacoa Crispy Tacos,0.15
+Barbacoa,Barbacoa Salad Bowl,0.2
+Sofritas,Veggie Bowl,0.2
+Sofritas,Veggie Burrito,0.2
+Sofritas,Veggie Soft Tacos,0.15
+Sofritas,Veggie Crispy Tacos,0.15
+Sofritas,Veggie Salad Bowl,0.2
+Sofritas,Veggie Salad,0.2
+Black Beans,Chicken Bowl,0.1
+Black Beans,Steak Bowl,0.1
+Black Beans,Carnitas Bowl,0.1
+Black Beans,Barbacoa Bowl,0.1
+Black Beans,Veggie Bowl,0.1
+Black Beans,Chicken Burrito,0.1
+Black Beans,Steak Burrito,0.1
+Pinto Beans,Chicken Burrito,0.1
+Pinto Beans,Steak Burrito,0.1
+Pinto Beans,Carnitas Burrito,0.1
+Pinto Beans,Barbacoa Burrito,0.1
+Rice,Chicken Bowl,0.15
+Rice,Steak Bowl,0.15
+Rice,Carnitas Bowl,0.15
+Rice,Barbacoa Bowl,0.15
+Rice,Veggie Bowl,0.15
+Rice,Chicken Burrito,0.15
+Rice,Steak Burrito,0.15
+Rice,Carnitas Burrito,0.15
+Rice,Barbacoa Burrito,0.15
+Rice,Veggie Burrito,0.15
+Cheese,Chicken Bowl,0.05
+Cheese,Steak Bowl,0.05
+Cheese,Carnitas Bowl,0.05
+Cheese,Barbacoa Bowl,0.05
+Cheese,Veggie Bowl,0.05
+Cheese,Chicken Burrito,0.05
+Cheese,Steak Burrito,0.05
+Sour Cream,Chicken Bowl,0.05
+Sour Cream,Steak Bowl,0.05
+Sour Cream,Carnitas Bowl,0.05
+Sour Cream,Chicken Burrito,0.05
+Sour Cream,Steak Burrito,0.05
+Guacamole,Chips and Guacamole,0.1
+Guacamole,Chicken Bowl,0.05
+Guacamole,Steak Bowl,0.05
+Guacamole,Chicken Burrito,0.05
+Lettuce,Chicken Salad Bowl,0.1
+Lettuce,Steak Salad Bowl,0.1
+Lettuce,Carnitas Salad Bowl,0.1
+Lettuce,Barbacoa Salad Bowl,0.1
+Lettuce,Veggie Salad Bowl,0.1
+Lettuce,Chicken Burrito,0.05
+Lettuce,Steak Burrito,0.05
+Tomato Salsa,Chicken Bowl,0.05
+Tomato Salsa,Steak Bowl,0.05
+Tomato Salsa,Chicken Burrito,0.05
+Tomato Salsa,Steak Burrito,0.05
+Tomatillo Red Salsa,Chicken Bowl,0.05
+Tomatillo Red Salsa,Steak Bowl,0.05
+Tomatillo Red Salsa,Chicken Burrito,0.05
+Tomatillo Green Salsa,Chicken Bowl,0.05
+Tomatillo Green Salsa,Steak Bowl,0.05
+Corn Salsa,Veggie Bowl,0.05
+Corn Salsa,Veggie Burrito,0.05
+Chips,Chips and Guacamole,0.08
+Chips,Chips and Fresh Tomato Salsa,0.08
+Chips,Chips and Tomatillo-Green Chili Salsa,0.08
+Chips,Chips and Tomatillo Green Chili Salsa,0.08
+Chips,Chips and Tomatillo Red Chili Salsa,0.08
+Chips,Chips and Tomatillo-Red Chili Salsa,0.08
+Chips,Chips and Roasted Chili-Corn Salsa,0.08
+Chips,Chips and Roasted Chili Corn Salsa,0.08
+Chips,Chips and Mild Fresh Tomato Salsa,0.08
+Chips,Side of Chips,0.08
+Chips,Chips,0.08
+Tortilla,Chicken Burrito,0.05
+Tortilla,Steak Burrito,0.05
+Tortilla,Carnitas Burrito,0.05
+Tortilla,Barbacoa Burrito,0.05
+Tortilla,Veggie Burrito,0.05
+Tortilla,Chicken Soft Tacos,0.03
+Tortilla,Steak Soft Tacos,0.03
+Tortilla,Carnitas Soft Tacos,0.03
+Tortilla,Barbacoa Soft Tacos,0.03
+Tortilla,Veggie Soft Tacos,0.03
+Bottled Water,Bottled Water,1.0
+Canned Soda,Canned Soda,1.0
+Canned Soda,Canned Soft Drink,1.0
+Canned Soda,6 Pack Soft Drink,6.0

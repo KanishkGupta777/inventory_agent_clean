@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-groq
+langchain-community
+python-dotenv
+pandas
+pydantic
+ipykernel
+sqlalchemy
+psycopg2-binary
+fastapi
+uvicorn[standard]

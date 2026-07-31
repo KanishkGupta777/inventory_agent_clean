@@ -1,0 +1,8 @@
+festival_name,festival_date,region,expected_demand_change_pct
+Independence Day,2026-08-15,National,20
+Raksha Bandhan,2026-08-28,National,15
+Ganesh Chaturthi,2026-09-05,Maharashtra,25
+Navratri,2026-10-11,National,30
+Diwali,2026-11-08,National,45
+Christmas,2026-12-25,National,35
+New Year,2027-01-01,National,40

@@ -1,0 +1,16 @@
+customer_id,offer_id,offer_type,offer_date,redeemed
+C001,O001,10% Off Next Order,2026-06-25,yes
+C002,O002,Free Drink with Bowl,2026-06-15,no
+C003,O003,20% Off Weekend Special,2026-06-28,yes
+C004,O004,Buy One Get One Taco,2026-05-10,no
+C005,O005,10% Off Next Order,2026-06-20,yes
+C006,O006,Free Guacamole,2026-04-05,no
+C007,O007,20% Off Weekend Special,2026-06-25,yes
+C008,O008,Free Drink with Bowl,2026-05-28,no
+C009,O009,Buy One Get One Taco,2026-03-15,no
+C010,O010,10% Off Next Order,2026-07-01,yes
+C011,O011,20% Off Weekend Special,2026-07-04,yes
+C012,O012,Free Guacamole,2026-02-10,no
+C013,O013,10% Off Next Order,2026-06-22,yes
+C014,O014,Free Drink with Bowl,2026-04-28,no
+C015,O015,20% Off Weekend Special,2026-06-30,yes

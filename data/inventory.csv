@@ -1,0 +1,21 @@
+item_name,current_stock_kg,reorder_threshold_kg,expiry_days,unit_cost_usd,supplier_lead_days
+Chicken,45.0,20.0,2,8.5,1
+Steak,30.0,15.0,2,12.0,1
+Carnitas,12.0,15.0,3,10.0,2
+Barbacoa,18.0,15.0,3,11.0,2
+Sofritas,8.0,10.0,4,6.0,3
+Black Beans,60.0,25.0,5,2.0,1
+Pinto Beans,40.0,25.0,5,2.0,1
+Rice,80.0,30.0,7,1.5,1
+Cheese,15.0,10.0,5,7.0,2
+Sour Cream,12.0,10.0,3,4.0,2
+Guacamole,10.0,12.0,1,9.0,1
+Lettuce,8.0,10.0,2,2.5,1
+Tomato Salsa,20.0,15.0,3,3.0,1
+Tomatillo Red Salsa,18.0,15.0,3,3.0,1
+Tomatillo Green Salsa,16.0,15.0,3,3.0,1
+Corn Salsa,14.0,15.0,3,2.5,1
+Chips,35.0,20.0,4,1.5,1
+Tortilla,50.0,25.0,3,2.0,1
+Bottled Water,100.0,40.0,365,0.5,3
+Canned Soda,80.0,40.0,365,0.8,3

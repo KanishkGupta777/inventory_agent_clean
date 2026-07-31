@@ -1,0 +1,11 @@
+item_name,waste_kg,waste_reason,waste_date,store_id
+Guacamole,1.5,spoiled,2026-07-01,STORE_001
+Guacamole,0.8,over_prep,2026-07-02,STORE_001
+Lettuce,1.2,expired,2026-07-01,STORE_001
+Sofritas,0.9,over_prep,2026-07-03,STORE_001
+Chicken,2.0,over_prep,2026-07-02,STORE_001
+Sour Cream,0.6,expired,2026-07-03,STORE_001
+Carnitas,1.1,spoiled,2026-07-04,STORE_001
+Tomato Salsa,1.4,over_prep,2026-07-01,STORE_001
+Rice,3.5,over_prep,2026-07-04,STORE_001
+Barbacoa,0.7,dropped,2026-07-02,STORE_001

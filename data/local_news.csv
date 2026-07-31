@@ -1,0 +1,6 @@
+news_date,headline,category,sentiment,relevance_to_restaurant
+2026-07-04,Major college fest announced near downtown Mumbai,event,positive,high
+2026-07-05,Traffic diversion planned near Chipotle Downtown Mumbai,traffic,negative,high
+2026-07-05,New office complex opens near STORE_002,business,positive,medium
+2026-07-06,Local cricket tournament final this weekend,event,positive,high
+2026-07-06,Heatwave warning issued for the city,weather,negative,medium
